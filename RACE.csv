@@ -1,0 +1,21 @@
+RaceID,Date,TrackName,TrackLength,City,State/Province,Country
+1,2019-03-16,Melbourne Grand Prix Circuit,3.295,Melbourne,,Australia
+2,2019-03-31,Bahrain International Circuit ,3.352,Sakhir,,Bahrain
+3,2019-04-14,Shanghai International Circuit,3.387,Shanghai,,China
+4,2019-04-28,Baku Ciry Circuit,3.735,Baku,,Azerbaijan
+5,2019-05-12,Circuit de Barcelona-Catalunya,2.892,Barcelona,,Spain
+6,2019-05-26,Circuit de Monaco,2.075,Monte Carlo,,Monaco
+7,2019-06-09,Circuit Gilles Villeneuve,3.712,Montreal,Quebec,Canada
+8,2019-06-23,Circuit Paul Ricard,3.631,Le Castellet,Var,France
+9,2019-06-30,Red Bull Ring,2.683,Spielberg,Styria,Austria
+10,2019-06-14,Silverstone Circuit,3.667,Silverstone,,England
+11,2019-07-28,Hockenheimring,4.574,Hockenheim,,Germany
+12,2019-08-04,Hungaroring,2.722,Mogyorod,,Hungary
+13,2019-09-01,Spa-Francorchamps,4.352,Stavelot,,Belgium
+14,2019-09-08,Autodromo Nazionale Monza,3.599,Monza,,Italy
+15,2019-09-22,Marina Bay Street Circuit,3.152,Marina Bay,,Singapore
+16,2019-09-29,Sochi Autodrom,3.648,Krasnodar Krai,,Russia
+17,2019-10-12,Suzuka Circuit,3.608,Suzuka,,Japan
+18,2019-10-27,Autodromo Hermanos Rodriguez,2.786,Mexico City,,Mexico
+19,2019-11-03,Circuit of the Americas,3.426,Austin,Texas,United States
+20,2019-11-17,Autodromo Jose Carlos Pace,2.732,Sao Paulo,,Brazil
